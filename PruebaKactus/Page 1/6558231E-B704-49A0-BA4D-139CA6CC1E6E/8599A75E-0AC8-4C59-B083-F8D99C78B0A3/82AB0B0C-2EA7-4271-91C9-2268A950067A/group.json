@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "82AB0B0C-2EA7-4271-91C9-2268A950067A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F17656EB-5745-446B-919C-CBD5E715B014",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8BFB5B59-D339-496F-9B8D-ADEB6E092C90",
+    "height": 12,
+    "width": 12,
+    "x": 10,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C974DC98-C6DA-453C-BC64-92D6B1A63C7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "184F18AE-5E10-497A-8840-6302ED070656"
+    }
+  ],
+  "name": "editar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C9668D8B-5B03-4C2E-B348-E67AB300D02C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.571428571428571,
+      "type": 0
+    },
+    "do_objectID": "43325EC3-5D67-4F9B-82CD-9F93FA22FF72",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 12,
+            "enabled": 1,
+            "modelID": "constraint_f3d056e6-44fd-48b3-9fef-62a54f4b6a53",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 12
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_146093bb-be50-4aa0-b1c5-d1b6994e7a3a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

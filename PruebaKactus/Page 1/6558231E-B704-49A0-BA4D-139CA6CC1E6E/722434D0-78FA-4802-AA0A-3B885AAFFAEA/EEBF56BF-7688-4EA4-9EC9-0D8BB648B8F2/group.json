@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "EEBF56BF-7688-4EA4-9EC9-0D8BB648B8F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5D448A1-FCBC-47DB-9091-2CCA734637A7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C972857B-7088-4AF5-BB9A-9DDBE44818E5",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "12C39445-F910-4A37-A357-82138A188D75"
+    }
+  ],
+  "name": "slack",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41CFE105-A1C7-4570-B2D4-7B2502017139",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

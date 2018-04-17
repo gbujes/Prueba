@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "9ECF128C-AEA5-430A-B138-AD98D64B2398",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "575B49A1-B4DF-4E66-A4ED-152AC1C1189C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7202D8D-88C6-40CE-B893-B1FE8A014DF3",
+    "height": 196,
+    "width": 287,
+    "x": 35,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6678756D-3E8E-4C2E-8D90-5F64EB51113A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "965B2319-D81C-4C8B-9134-27D447D2CFF3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA402DB2-6D4E-47EC-A94F-58439C724B8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "77905ED2-8A0A-440F-9778-E160D2C18370"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37856871-5691-414F-9E6E-AD0B7E3CC61A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A8E2061-B5A7-46BE-9825-A25D9FE86CAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CE8EBBA-C1E1-414D-81CA-FC74AABAE266"
+    }
+  ],
+  "name": "TEXTURA",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F4F243E-638C-40F7-99FB-FAFA4D501204",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

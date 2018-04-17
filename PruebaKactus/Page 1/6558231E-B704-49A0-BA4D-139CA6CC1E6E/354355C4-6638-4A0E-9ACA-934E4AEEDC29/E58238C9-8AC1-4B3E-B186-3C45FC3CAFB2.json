@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "E58238C9-8AC1-4B3E-B186-3C45FC3CAFB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E1A6317-E01F-4CD6-AD3B-29A36AB7309D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9074C734-5A3D-47E8-8213-969950342A5A",
+    "height": 120,
+    "width": 125,
+    "x": -5,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5c92ff0b93a51c56bd690f17c7de74205f106ca3",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Zrzut ekranu 2017-12-21 o 23.30.28",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38A88DB2-6C26-4A0E-8535-B81AA097BBCE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

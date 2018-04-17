@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "6E2D68B4-C0F3-4CE6-AE89-A90BFEEBEF22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90745839-8124-491A-A883-291ED9F630E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "322ADDEB-E88A-4A26-BB62-4C7D9F676E9F",
+    "height": 16,
+    "width": 18,
+    "x": 19,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C17E4B9F-33EC-4ABB-9878-C9D3582DCBDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBCE0AC1-C5CE-4951-8BE1-F01470BBFD26"
+    }
+  ],
+  "name": "felcha",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8593CC6D-DE6D-4113-9445-6F09B3D1F6BD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
